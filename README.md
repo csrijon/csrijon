@@ -70,7 +70,7 @@
 ---
 
 ### **⚛️ React.js Intern — HP Edit Enterprise**  
-📍 *Kolkata (HQ)*  
+📍 *Esplanade, Siddha Esplanade Building, Kolkata*  
 ⏳ *Duration: 2 Months*  
 - Built dynamic UI using React.js  
 - Developed reusable components  
