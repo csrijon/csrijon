@@ -83,7 +83,7 @@
 ### **📘 MCA — JIS College of Engineering, Kalyani**  
 📅 **2025 – Ongoing**  
 
-### **📗 BCA — MAKAUT**  
+### **📗 BCA — Maulana Abul Kalam Azad University Of Technology,West Bnegal**  
 📅 **2022 – 2025**
 
 ---
