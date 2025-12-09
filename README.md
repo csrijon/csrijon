@@ -8,11 +8,10 @@
 ## 🚀 About Me  
 - 🌍 Based in **West Bengal, India**  
 - 💼 **Software Engineer at HP Edit Enterprise (Kolkata – Esplanade, Siddha Esplanade Building)**  
-- 🎓 Currently pursuing **MCA at JIS Kalyani**  
-- 🎓 Completed **BCA from MAKAUT**  
-- 💻 Web Developer & React Native Mobile App Developer  
-- 🎨 Love building **animated, interactive, fast & modern digital experiences**  
-- ⚡ Skilled in both **frontend + backend + animations**  
+- 🎓 MCA Student (2025 – Ongoing) at **JIS College of Engineering, Kalyani**  
+- 🎓 BCA Graduate (2022 – 2025) from **MAKAUT**  
+- 💻 Passionate about **Web Development, App Development & Motion Animations**  
+- ⚡ I enjoy creating **fast, modern, animated & visually rich user experiences**  
 
 ---
 
@@ -52,10 +51,10 @@
 
 ### **💻 Software Engineer — HP Edit Enterprise**  
 📍 *Esplanade, Siddha Esplanade Building, Kolkata*  
-- Build web & mobile applications  
-- Work on React Native, Node.js, MongoDB  
-- Create smooth UI animations & motion effects  
-- Maintain & optimize production-level software  
+- Build modern websites & mobile applications  
+- Work with React, React Native, Node.js, MongoDB  
+- Create smooth UI motion & animation effects  
+- Develop production-grade projects  
 
 ---
 
@@ -64,44 +63,28 @@
 ### **🌐 Web Developer Intern — Euphoria GenX**  
 📍 *Kolkata, Salt Lake, Sector V*  
 ⏳ *Duration: 2 Months*  
-- Learned frontend development  
-- Worked with HTML, CSS, JS  
-- Built responsive and modern UI layouts  
-- Gained industry-level coding discipline  
+- Worked on frontend design & development  
+- Built responsive UIs and optimized layouts  
+- Improved real-world coding workflow  
 
 ---
 
 ### **⚛️ React.js Intern — HP Edit Enterprise**  
-📍 *Kolkata (Workplace)*  
+📍 *Kolkata (HQ)*  
 ⏳ *Duration: 2 Months*  
-- Worked on real-world React projects  
-- Designed reusable components  
-- Handled state management  
-- Integrated APIs and built dynamic UI  
+- Built dynamic UI using React.js  
+- Developed reusable components  
+- API integration + state management  
 
 ---
 
 # 🎓 Education  
 
 ### **📘 MCA — JIS College of Engineering, Kalyani**  
-(Studying)  
+📅 **2025 – Ongoing**  
 
 ### **📗 BCA — MAKAUT**  
-(Completed)
-
----
-
-# 📊 GitHub Stats  
-
-<div align="center">
-  
-  ![Srijon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-
-</div>
+📅 **2022 – 2025**
 
 ---
 
@@ -121,7 +104,7 @@
 ---
 
 ## 💬 Fun Fact  
-✨ I enjoy turning simple UI into dynamic animated experiences.
+✨ I love turning simple UI ideas into fully animated digital experiences.
 
 ---
 
